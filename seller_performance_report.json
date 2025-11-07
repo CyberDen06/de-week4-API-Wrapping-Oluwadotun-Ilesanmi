@@ -1,0 +1,37 @@
+{
+  "david morrison": {
+    "total_revenue": 141097.6,
+    "products_sold": 240,
+    "avg_price": 505.49
+  },
+  "derek powell": {
+    "total_revenue": 46760.7,
+    "products_sold": 546,
+    "avg_price": 60.98
+  },
+  "don romer": {
+    "total_revenue": 214174.0,
+    "products_sold": 840,
+    "avg_price": 272.65
+  },
+  "jimmie klein": {
+    "total_revenue": 38913.21,
+    "products_sold": 749,
+    "avg_price": 104.0
+  },
+  "john doe": {
+    "total_revenue": 309731.85,
+    "products_sold": 1535,
+    "avg_price": 161.56
+  },
+  "kate hale": {
+    "total_revenue": 7659.25,
+    "products_sold": 404,
+    "avg_price": 17.64
+  },
+  "miriam snyder": {
+    "total_revenue": 79754.0,
+    "products_sold": 1422,
+    "avg_price": 59.75
+  }
+}
